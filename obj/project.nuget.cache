@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qaW349PtmUU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\some\\KSPControlPanel\\KSPControlPanel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\some\\.nuget\\packages\\google.protobuf\\3.22.0\\google.protobuf.3.22.0.nupkg.sha512",
+    "C:\\Users\\some\\.nuget\\packages\\krpc.client\\0.5.4\\krpc.client.0.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

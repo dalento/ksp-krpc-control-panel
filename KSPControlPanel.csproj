@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <NoWarn>NU1701</NoWarn>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>disable</Nullable>  <!-- ВАЖНО! -->
+    <ImplicitUsings>disable</ImplicitUsings>  <!-- Чтобы избежать других проблем -->
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="KRPC.Client" Version="0.5.4" />
+  </ItemGroup>
+
+</Project>

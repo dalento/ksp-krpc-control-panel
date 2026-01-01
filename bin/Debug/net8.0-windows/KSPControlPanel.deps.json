@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "KSPControlPanel/1.0.0": {
+        "dependencies": {
+          "KRPC.Client": "0.5.4"
+        },
+        "runtime": {
+          "KSPControlPanel.dll": {}
+        }
+      },
+      "Google.Protobuf/3.22.0": {
+        "runtime": {
+          "lib/net5.0/Google.Protobuf.dll": {
+            "assemblyVersion": "3.22.0.0",
+            "fileVersion": "3.22.0.0"
+          }
+        }
+      },
+      "KRPC.Client/0.5.4": {
+        "dependencies": {
+          "Google.Protobuf": "3.22.0"
+        },
+        "runtime": {
+          "lib/net45/KRPC.Client.dll": {
+            "assemblyVersion": "0.5.4.0",
+            "fileVersion": "0.5.4.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KSPControlPanel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Google.Protobuf/3.22.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UE1TRMrBBBmnA8xbqzTvX4sSwn+2W/Xxrs/v5Aws/7C8RD6fY6STi1eAnCu7Ez93oHcPdpyStGnFel/aIB407Q==",
+      "path": "google.protobuf/3.22.0",
+      "hashPath": "google.protobuf.3.22.0.nupkg.sha512"
+    },
+    "KRPC.Client/0.5.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4T61kd9Lyq8LFTa/hqmLZ3zs3bgUtLLphXGcPiBcXNfe60oGc2S4wvsRk32za0x/tcB6rVVRRp3z2d9qtxCDAw==",
+      "path": "krpc.client/0.5.4",
+      "hashPath": "krpc.client.0.5.4.nupkg.sha512"
+    }
+  }
+}
