@@ -16,3 +16,4 @@ C:\Users\some\KSPControlPanel\obj\Debug\net8.0-windows\refint\KSPControlPanel.dl
 C:\Users\some\KSPControlPanel\obj\Debug\net8.0-windows\KSPControlPanel.pdb
 C:\Users\some\KSPControlPanel\obj\Debug\net8.0-windows\KSPControlPanel.genruntimeconfig.cache
 C:\Users\some\KSPControlPanel\obj\Debug\net8.0-windows\ref\KSPControlPanel.dll
+C:\Users\some\KSPControlPanel\obj\Debug\net8.0-windows\KSPControlPanel.sourcelink.json

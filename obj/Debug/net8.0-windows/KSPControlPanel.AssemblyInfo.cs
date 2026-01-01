@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KSPControlPanel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd88957d6e11af527bca2334b1f36c143c7800c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76234512844c6f3523abce921f510178365d870e")]
 [assembly: System.Reflection.AssemblyProductAttribute("KSPControlPanel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KSPControlPanel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
